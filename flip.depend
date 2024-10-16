@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1726566944 source:c:\users\a9163\desktop\2024 dip hw1\flip\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdint>
+
+1726566944 source:c:\users\a9163\desktop\2024 dip hw1\hw1_313605003\flip\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdint>
+
